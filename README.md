@@ -1,2 +1,2 @@
 # AKKP-Resources
-Привет! Здесь ты сможешь найти ресурсы от Artkkurs(AKKPowered)
+"mini"-cdn for akkpowered
